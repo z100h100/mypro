@@ -1,0 +1,4 @@
+{
+  "BASE_URL": "http://101.132.110.91/api",
+  "AJAX_TIMEOUT": 6000
+}

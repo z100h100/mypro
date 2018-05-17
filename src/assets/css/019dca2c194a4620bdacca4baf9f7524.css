@@ -1,0 +1,16 @@
+﻿/* Enter Your Custom CSS Here */
+.woo-tmnf #content{width:100%!important;}
+.woo-tmnf #sidebar{display:none!important;}
+.woocommerce div.product div.images .woocommerce-product-gallery__image:nth-child(1){width:80%;float:right;}
+.woocommerce div.product div.images .woocommerce-product-gallery__image:nth-child(n+2){width:20%;display:block;}
+.woocommerce div.product div.images .woocommerce-product-gallery__wrapper{height:407px!important;overflow:hidden!important;}
+
+.thumbnails{height:auto!important;}
+.slick-slide{width:100%!important;float:none!important;}
+.slick-list{margin:0!important;}
+.slick-prev{display:none!important;}
+.slick-next{display:none!important;}
+.thumbnails ul{height:408px!important;overflow:hidden!important;}
+.slick-track{width:auto!important;}
+
+.pswp button.pswp__button, .pswp button.pswp__button:hover{background-color:#ccc!important;}
